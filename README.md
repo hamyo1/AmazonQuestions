@@ -5,8 +5,12 @@ the main exercize file is https://github.com/hamyo1/AmazonTest/blob/master/Build
 and the tracking Table in here https://github.com/hamyo1/AmazonTest/blob/master/buildingProblem.drawio.png
 (you will need to move to the side to see all of variation (I edited it with drawio))
 
-(i upload ne more exercize from here https://www.youtube.com/watch?v=yKz2kPip4sg&t=2s and share my sln to this question also..)
-you can also copy the sln from here..
+i upload ne more exercize from here https://www.youtube.com/watch?v=yKz2kPip4sg&t=2s and share my sln to this question also..
+here is the main file to this question https://github.com/hamyo1/AmazonTest/blob/master/RobotsQuestion/Program.cs
+
+
+
+you can also copy the sln for the bulding question from here..
 
 ```
 /*
