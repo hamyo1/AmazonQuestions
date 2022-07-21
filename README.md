@@ -1,5 +1,9 @@
 Amazon Challenge
 
+its came with projecrt on .net 6.0
+the main file is https://github.com/hamyo1/AmazonTest/blob/master/AmazonTest/Program.cs
+and the tracking Table in here https://github.com/hamyo1/AmazonTest/blob/master/buildingProblem.drawio.png
+(you will need to move to the side to see all of variation (I edited it with drawio))
 
 ```
 /*
