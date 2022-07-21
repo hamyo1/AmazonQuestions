@@ -1,7 +1,7 @@
 ﻿
 /*
- The Problem
- Given a skyline (in a 1 dimensional array), your goal is to get to the furtehest building possible.
+The Problem
+Given a skyline (in a 1 dimensional array), your goal is to get to the furtehest building possible.
 you start at zeroth building, with a finite number of bricks and ladder it doesent cost you anything 
 to move to the building ahead of you 
 if it is at the same level or lower.
