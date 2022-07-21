@@ -1,16 +1,16 @@
 ﻿
 /*
-The Problem
-Given a skyline (in a 1 dimensional array), your goal is to get to the furtehest building possible.
-you start at zeroth building, with a finite number of bricks and ladder it doesent cost you anything 
-to move to the building ahead of you 
+Here is the question:
+Given a skyline (in a 1 dimensional array), your goal is to get to the furthest building possible.
+you start at zeroth building, with a finite number of bricks and ladder it doesn't cost you anything
+to move to the building ahead of you
 if it is at the same level or lower.
-However, if the building is higer, you must use either bricks or a ladder.
-A ladder lets you scale any height differencec. However if you use bricks, to scale 
-a height differencec of N, you must use N bricks
+However, if the building is higher, you must use either bricks or a ladder.
+A ladder lets you scale any height difference. However if you use bricks, to scale
+a height difference of N, you must use N bricks
 
 write a function to return the index of the furthest building you can get to, in the optimal case
-e.g. [4,2,20,1,5] , 1 ladder , 4 bricks => return 4 (use ladder for 2->20, bricks for 1>5)
+e.g. [4,2,20,1,5], 1 ladder, 4 bricks => return 4 (use ladder for 2-> 20, bricks for 1> 5)
 */
 
 
