@@ -1,7 +1,7 @@
 AmazonTest
 
 
-
+```
 /*
 The Problem
 Given a skyline (in a 1 dimensional array), your goal is to get to the furtehest building possible.
@@ -54,3 +54,4 @@ int FarthestBuildingAllVariation(int[] egArray, int ladder, int bricks, int curr
     
     return currentBricks>=currentLadder?currentBricks:currentLadder;
 }
+```
