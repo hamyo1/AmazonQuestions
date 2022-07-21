@@ -1,8 +1,6 @@
 AmazonTest
 
 
-public static void main()
-{
 
 /*
 The Problem
@@ -55,5 +53,4 @@ int FarthestBuildingAllVariation(int[] egArray, int ladder, int bricks, int curr
     }
     
     return currentBricks>=currentLadder?currentBricks:currentLadder;
-}
 }
