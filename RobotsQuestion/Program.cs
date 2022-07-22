@@ -25,9 +25,19 @@ bool isVaildPath(int[,] grid, int numOfRobots)
     int sum1RobotsArray = 0;
     int sum2RobotsArray = 0;
 
-
-    if (numOfRobots >= 0 && grid.GetLength(0) % 2 == 0)
+    if (numOfRobots >= 0)
     {
+        if(grid.GetLength(0)==1)//only 1 array (the robots are not travel.)
+        {
+            for(int col = 0; col < grid.GetLength(1); col++)
+            {
+                if(grid[0,col] == 1)
+                {
+                    sum1RobotsArray++;
+                }
+            }
+            return sum1RobotsArray == numOfRobots? true:false;
+        }
         for (int raw = 0; raw < grid.GetLength(0) - 1; raw++)
         {
             int lastUsedIndex = -1;
