@@ -51,3 +51,5 @@ int FarthestBuildingAllVariation(int[] egArray, int ladder, int bricks, int curr
     
     return currentBricks>=currentLadder?currentBricks:currentLadder;
 }
+
+// in my calculation for the time complex in o notation => O(2^n) n is the length of the building array

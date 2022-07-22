@@ -87,3 +87,5 @@ bool isVaildPath(int[,] grid, int numOfRobots)
 
     return false;
 }
+
+// in my calculation for the time complex in o notation => O(n*n) (O(raw*col))
