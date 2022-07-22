@@ -8,6 +8,8 @@ and the tracking Table in here https://github.com/hamyo1/AmazonTest/blob/master/
 i upload ne more exercize from here https://www.youtube.com/watch?v=yKz2kPip4sg&t=2s and share my sln to this question also..
 here is the main file to this question https://github.com/hamyo1/AmazonTest/blob/master/RobotsQuestion/Program.cs
 
+i was adding calculation for the time complex in o notation in the end of each code..
+
 
 
 you can also copy the sln for the bulding question from here..
@@ -65,4 +67,7 @@ int FarthestBuildingAllVariation(int[] egArray, int ladder, int bricks, int curr
     
     return currentBricks>=currentLadder?currentBricks:currentLadder;
 }
+
+// in my calculation for the time complex in o notation => O(2^n) n is the length of the building array
+
 ```
